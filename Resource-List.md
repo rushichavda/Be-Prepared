@@ -8,7 +8,7 @@ You're 100% right, and I appreciate the pushback. Here's the **genuinely compreh
 
 ## 🏆 CATEGORY 1: Personal Blogs (The Gold Standard for Deep Dives)
 
-### 1. 🔵 **Lil'Log by Lilian Weng** — `lilianweng.github.io`
+### [GOOD] 1. 🔵 **Lil'Log by Lilian Weng** — `lilianweng.github.io`
 *(Ex-OpenAI Head of Safety Research — arguably the most cited AI blog in existence)*
 
 Must-read posts for interviews:
@@ -27,7 +27,7 @@ Must-read posts for interviews:
 
 ---
 
-### 2. 🟡 **Jay Alammar's Blog** — `jalammar.github.io`
+### [GOOD]2. 🟡 **Jay Alammar's Blog** — `jalammar.github.io`
 *(The king of visual explanations)*
 
 Must-read posts:
@@ -43,7 +43,7 @@ Must-read posts:
 
 ---
 
-### 3. 🟢 **Sebastian Raschka's Blog** — `sebastianraschka.com/blog`
+### [SOSO] 3. 🟢 **Sebastian Raschka's Blog** — `sebastianraschka.com/blog`
 *(ML researcher, author of "Build an LLM from Scratch")*
 
 Top posts for interviews:
@@ -64,7 +64,7 @@ Top posts for interviews:
 
 ---
 
-### 4. 🟠 **Eugene Yan's Blog** — `eugeneyan.com/writing`
+### 4.[SOSO] 🟠 **Eugene Yan's Blog** — `eugeneyan.com/writing`
 *(Applied science at Amazon — production LLM systems)*
 
 Filtered LLM posts:
@@ -80,7 +80,7 @@ Filtered LLM posts:
 
 ---
 
-### 5. 🔴 **Chip Huyen's Blog** — `huyenchip.com/blog`
+### [Excellent]5. 🔴 **Chip Huyen's Blog** — `huyenchip.com/blog`
 *(Author of "Designing ML Systems" — AI systems & strategy)*
 
 Top posts:
@@ -97,7 +97,7 @@ Top posts:
 
 ---
 
-### 6. 🟣 **Hamel Husain's Blog** — `hamel.dev`
+### [SOSO]6. 🟣 **Hamel Husain's Blog** — `hamel.dev`
 *(ML engineer, 20+ years experience, worked with OpenAI/GitHub)*
 
 Key posts:
@@ -114,7 +114,7 @@ Key posts:
 
 ---
 
-### 7. ⭐ **Aman Chadha's AI Journal** — `aman.ai/primers/ai/`
+### [Excellent] 7. ⭐ **Aman Chadha's AI Journal** — `aman.ai/primers/ai/`
 *(Probably the most comprehensive single-person NLP/LLM primer site on the internet)*
 
 This site has **organized written primers on literally every topic** you'd ever be asked about:
@@ -134,7 +134,7 @@ This site has **organized written primers on literally every topic** you'd ever 
 
 ---
 
-## 📬 CATEGORY 2: Substack Newsletters (Weekly Deep Dives)
+## 📬 [Good Substacks and NL] CATEGORY 2: Substack Newsletters (Weekly Deep Dives)
 
 ### 8. **Deep (Learning) Focus by Cameron R. Wolfe, PhD** — `cameronrwolfe.substack.com`
 *64,000+ subscribers*
@@ -167,7 +167,7 @@ Monthly deep dives on LLM research papers, training techniques, LoRA experiments
 
 ---
 
-## 🎓 CATEGORY 3: Free Academic Courses & University Materials
+## 🎓 [Good Courses] CATEGORY 3: Free Academic Courses & University Materials
 
 ### 13. **Stanford CS324 — Large Language Models** — `stanford-cs324.github.io/winter2022/`
 Full lecture notes from Stanford covering: LLM foundations, capabilities, harms, efficiency, adaptation (fine-tuning, prompting), alignment, emerging architectures. **Graduate-level depth, fully free.**
@@ -185,19 +185,16 @@ Academic lecture slides & notes on LLM theory — training objectives, scaling l
 
 ## 🛠️ CATEGORY 4: Industry Blogs & Practice-Oriented Resources
 
-### 17. **HuggingFace Blog** — `huggingface.co/blog`
+### 17. [Blogs, Tuts, Good] **HuggingFace Blog** — `huggingface.co/blog`
 Deep technical posts: PEFT library internals, LoRA math, RLHF with TRL, DPO tutorial, GPTQ/AWQ quantization, RAG pipelines, Flash Attention, evaluation methodologies, fine-tuning best practices. **Written by the people who build the tools.**
 
-### 18. **applied-llms.org — "What We've Learned from a Year of Building with LLMs"**
-A landmark collaborative article by practitioners from HuggingFace, AWS, Cohere, Hamel Husain and others. Covers: tactical prompting, RAG architecture decisions, flow engineering, evaluation, cost/latency tradeoffs. **Essential reading for system-level interview questions.**
-
-### 19. **Parlance Labs Educational Resources** — `parlance-labs.com/education/`
+### 19. [Courses, Good] **Parlance Labs Educational Resources** — `parlance-labs.com/education/`
 Video talks from practitioners on: Evals (when/how), RAG (basics to advanced), Fine-tuning (should you? when? how?), Deployment, Advanced fine-tuning topics (FSDP, DeepSpeed, Axolotl, function calling). **Talk-format learning from engineers who've shipped LLM products.**
 
-### 20. **Weights & Biases Fully Connected** — `wandb.ai/fully-connected`
+### 20.[Courses, SOSO] **Weights & Biases Fully Connected** — `wandb.ai/fully-connected`
 Articles + reports on: LLM training experiments, evaluation methods, LoRA experiments, RAG evaluation, prompt management, monitoring LLMs in production. Also has free LLM-Engineering course.
 
-### 21. **The Gradient** — `thegradient.pub`
+### 21.[Blogs, SOSO]**The Gradient** — `thegradient.pub`
 Research-level explainer articles on NLP/LLM concepts, debates in the field (fine-tuning vs prompting, scaling laws, emergent abilities). Academic quality but accessible writing.
 
 ---
