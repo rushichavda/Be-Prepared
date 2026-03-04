@@ -8,15 +8,15 @@ Here is the full result of the systematic search. I'll present everything newly 
 
 ---
 
-**1. `KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub`** ✅ (already discussed)
+**[Excellent] 1. `KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub`** ✅ (already discussed)
 777 stars | 115 LLM Q&As with full inline answers | Dec 2025
 
-**2. `KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub`** ✅ (companion repo, also already discussed)
+**[Excellent] 2. `KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub`** ✅ (companion repo, also already discussed)
 397 stars | 105 RAG-dedicated Q&As going very deep | Dec 2025
 
 ---
 
-**3. `Navedphysicist/100-Agentic-AI-Interview-Questions`** ⭐ NEW — Fills the biggest gap
+** [SOSO] 3. `Navedphysicist/100-Agentic-AI-Interview-Questions`** ⭐ NEW — Fills the biggest gap
 8 stars | Updated Jan 13, 2026
 
 This directly fills the agentic AI gap I acknowledged was missing. What I verified:
@@ -30,7 +30,7 @@ This directly fills the agentic AI gap I acknowledged was missing. What I verifi
 
 ---
 
-**4. `DolbyUUU/Awesome-LLM-Interview-Questions-and-Answers`** ⭐ NEW — Unique coverage
+** [GOOD] 4. `DolbyUUU/Awesome-LLM-Interview-Questions-and-Answers`** ⭐ NEW — Unique coverage
 25 stars | Updated Aug 2025
 
 This is a **Chinese-language** repo from someone who interviewed at major Chinese tech companies in 2025. What I verified it covers (from the table of contents):
@@ -49,7 +49,7 @@ This is a **Chinese-language** repo from someone who interviewed at major Chines
 
 ---
 
-**5. `llmgenai/LLMInterviewQuestions`** ⭐ NEW
+** [Only Q] 5. `llmgenai/LLMInterviewQuestions`** ⭐ NEW
 31 stars | ~100+ questions in 15 categories
 
 What I verified from the README:
@@ -59,7 +59,7 @@ What I verified from the README:
 
 ---
 
-**6. `a-tabaza/genai_interview_questions`** ⭐ NEW — Reference-heavy, theory-grounded
+** [SOSO] 6. `a-tabaza/genai_interview_questions`** ⭐ NEW — Reference-heavy, theory-grounded
 Stars: very low | Verified content: excellent depth
 
 What I verified — this is different from all others. It has:
@@ -73,15 +73,15 @@ What I verified — this is different from all others. It has:
 
 ### TIER 2 — Supplementary / Specialized
 
-**7. `rohanmistry231/Langchain-Interview-Preparation`**
+** [Good for LC] 7. `rohanmistry231/Langchain-Interview-Preparation`**
 31 stars | LangChain-specific with code examples, chains, memory, RAG, agents
 
 Part of a larger series by this author. He has 42+ interview prep repos covering: ML, DL, NLP, LangChain, Prompt Engineering, PyTorch, TensorFlow, Computer Vision, SQL, FastAPI — all consistently structured. Useful if you want LangChain-specific prep with working Python code.
 
-**8. `rohanmistry231/NLP-Interview-Preparation`** (from his profile)
+** [SOSO] 8. `rohanmistry231/NLP-Interview-Preparation`** (from his profile)
 14 stars | NLP fundamentals with NLTK, SpaCy, Transformers
 
-**9. `rohanmistry231/Prompt-Engineering-Interview-Preparation`**
+** [SOSO] 9. `rohanmistry231/Prompt-Engineering-Interview-Preparation`**
 17 stars | Prompt engineering focused with code
 
 ---
