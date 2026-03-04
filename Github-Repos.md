@@ -10,7 +10,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 1. `alexeygrigorev/data-science-interviews` — ⭐ 9,800 stars
+#### [DS, ML] 1. `alexeygrigorev/data-science-interviews` — ⭐ 9,800 stars
 **`github.com/alexeygrigorev/data-science-interviews`**
 
 **What I verified:** README + content structure. Covers ML theory (linear models, trees, neural networks, NLP), SQL, Python, probability. Community-contributed answers via PRs — many answers are detailed and battle-tested from actual interviews. Organized into `theory.md`, `technical.md`, `contrib/probability.md`. Also has an `awesome.md` with curated resources.
@@ -19,7 +19,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 2. `amitshekhariitbhu/machine-learning-interview-questions` — ⭐ 123 stars, **updated 6 days ago**
+#### [Videos] 2. `amitshekhariitbhu/machine-learning-interview-questions` — ⭐ 123 stars, **updated 6 days ago**
 **`github.com/amitshekhariitbhu/machine-learning-interview-questions`**
 
 **What I verified:** Read the entire README. This is extremely comprehensive and actively maintained (Feb 2026). Covers:
@@ -33,7 +33,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 3. `youssefHosni/Data-Science-Interview-Questions-Answers` — ⭐ 5,500 stars
+#### [SOSO] 3. `youssefHosni/Data-Science-Interview-Questions-Answers` — ⭐ 5,500 stars
 **`github.com/youssefHosni/Data-Science-Interview-Questions-Answers`**
 
 **What I verified:** README structure confirmed. Organized into 9 categories: ML Q&A, DL Q&A, **Top LLM Interview Q&A**, CV Q&A, Statistics Q&A, Probability Q&A, Python Q&A, SQL Q&A, Resume-Based questions. Originated from a LinkedIn daily interview question initiative (community-sourced answers).
@@ -42,7 +42,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 4. `kojino/120-Data-Science-Interview-Questions` — ⭐ 3,800 stars
+#### [Only Q] 4. `kojino/120-Data-Science-Interview-Questions` — ⭐ 3,800 stars
 **`github.com/kojino/120-Data-Science-Interview-Questions`**
 
 **What I verified:** Title says it all — 120 Q&As covering probability, statistics, ML, coding, product/business. Classic set used widely for DS interview prep. Answers are inline in markdown.
@@ -51,7 +51,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 5. `Devinterview-io/llms-interview-questions` — ⭐ 902 stars, **updated Feb 2026**
+#### [SOSO] 5. `Devinterview-io/llms-interview-questions` — ⭐ 902 stars, **updated Feb 2026**
 **`github.com/Devinterview-io/llms-interview-questions`**
 
 **What I verified:** Repo exists, recent activity, 900+ stars, tagged specifically with `llms-interview-questions`, `llms-questions`, `llms-tech-interview`. Part of the `Devinterview-io` organization which has a whole suite of interview repos (PyTorch, Data Scientist, CV, SQL, etc.).
@@ -64,7 +64,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 6. `khangich/machine-learning-interview` — (FAANG-focused, real interview experience)
+#### [Good In general prep] 6. `khangich/machine-learning-interview` — (FAANG-focused, real interview experience)
 **`github.com/khangich/machine-learning-interview`**
 
 **What I verified:** Full README read. Written by someone with 10 YOE who received offers from Google, LinkedIn, Snapchat, Coupang, StitchFix. Contains: ML fundamentals, DL, statistics, probability, SQL, ML system design (YouTube recommendations, LinkedIn feed ranking, ad click prediction, Airbnb search), coding, FAANG-specific prep. Has "Test your ML knowledge" quizzes based on actual interview questions.
@@ -73,7 +73,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 7. `girijesh-ai/ai-interview-codex` — ⭐ 18 stars, **updated Jan 2026**
+#### [SOSO] 7. `girijesh-ai/ai-interview-codex` — ⭐ 18 stars, **updated Jan 2026**
 **`github.com/girijesh-ai/ai-interview-codex`**
 
 **What I verified:** Read the full README. This is **the most comprehensive modern LLM/GenAI interview prep repo** I found. Covers:
@@ -91,7 +91,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 8. `Srilochan7/AI-Engineer-Interview-Questions` — ⭐ 22 stars
+#### [Only Q] 8. `Srilochan7/AI-Engineer-Interview-Questions` — ⭐ 22 stars
 **`github.com/Srilochan7/AI-Engineer-Interview-Questions`**
 
 **What I verified:** Full README read. Questions gathered from **6+ real AI Engineer/internship interviews**. Categories: ML, DL, Core AI (Transformers most asked), **Generative AI** (RAG, prompt engineering, fine-tuning vs RAG, vector DBs, hybrid search, multimodal GenAI), **LLMs** (PEFT, LoRA, QLoRA, evaluation, fine-tuning process), **Agentic AI** (LangGraph, CrewAI, LangChain differences).
@@ -100,7 +100,7 @@ Great — and here's the key distinction I want to be upfront about: there are *
 
 ---
 
-#### 9. `sreekanth-madisetty/Awesome-LLM-Interview-Questions` — ⭐ 15 stars
+#### [SOSO] 9. `sreekanth-madisetty/Awesome-LLM-Interview-Questions` — ⭐ 15 stars
 **`github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions`**
 
 **What I verified earlier:** README covers RAG, Pretraining, Quantization, Preference Tuning (DPO/PPO), Fine-tuning, Agents with expert Q&A format. Topics: `lora`, `qlora`, `quantization`, `bert`, `pretraining`, `finetune-llm`, `genai`.
